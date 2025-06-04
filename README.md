@@ -1,4 +1,4 @@
-# ![CodePath Logo](https://codepath.org/images/codepath-logo.png)  
+# ![CodePath Logo](/Users/sidharthmallela/Photography/codepath_logo-1.png)  
 # CodePath Project
 
 Welcome to the **CodePath** repository! This project contains code and resources developed as part of my work and studies with CodePath. The goal of this repository is to organize and maintain the codebase for various assignments, labs, and exercises to improve programming skills and build real projects.
